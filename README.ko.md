@@ -14,7 +14,7 @@
 
 1. 저장소를 클론합니다:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/crandi-dev/crandi-youtube-collection.git
    ```
 2. 프로젝트 디렉토리로 이동합니다:
    ```bash

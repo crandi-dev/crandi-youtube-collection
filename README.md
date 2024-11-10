@@ -14,7 +14,7 @@ To test this project locally, please follow these instructions:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/crandi-dev/crandi-youtube-collection.git
    ```
 2. Navigate to the project directory:
    ```bash

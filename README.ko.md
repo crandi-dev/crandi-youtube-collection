@@ -1,4 +1,4 @@
-[English](README.en.md) | [한국어](README.ko.md)
+[English](README.md) | [한국어✔](README.ko.md)
 
 # 크랜디 유튜브 컴포넌트 모음
 

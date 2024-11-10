@@ -1,4 +1,4 @@
-English Version | 한국어 버전
+[English✔](README.md) | [한국어](README.ko.md)
 
 # CRANDI YouTube Components Collection
 

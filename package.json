@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/anthropic": "^0.0.56",
     "@ai-sdk/openai": "^0.0.72",
     "@radix-ui/react-avatar": "^1.1.1",
     "@radix-ui/react-scroll-area": "^1.2.1",

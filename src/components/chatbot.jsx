@@ -17,7 +17,7 @@ import { useState, useEffect, useRef } from "react";
 
 const MODEL_OPTIONS = {
   "gpt-4o-mini": "gpt-4o-mini",
-  "gpt-4o": "gpt-4o",
+  "claude-3.5-sonnet": "claude-3.5-sonnet",
 };
 
 export default function Chat() {
@@ -74,7 +74,9 @@ export default function Chat() {
                 </SelectTrigger>
                 <SelectContent>
                   <SelectItem value="gpt-4o-mini">GPT-4o mini</SelectItem>
-                  <SelectItem value="gpt-4o">GPT-4o</SelectItem>
+                  <SelectItem value="claude-3.5-sonnet">
+                    Claude 3.5 Sonnet
+                  </SelectItem>
                 </SelectContent>
               </Select>
             </div>

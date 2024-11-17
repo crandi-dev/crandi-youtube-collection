@@ -7,6 +7,7 @@ Welcome to the **CRANDI YouTube Components Collection**! This repository is part
 ### Component Types
 
 - LightningLocator
+- chatbot(personal)
 
 ### Getting Started
 

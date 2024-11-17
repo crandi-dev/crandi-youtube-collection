@@ -7,6 +7,7 @@
 ### 컴포넌트 종류
 
 - LightningLocator
+- chatbot(personal)
 
 ### 시작하기
 

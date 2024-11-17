@@ -1,5 +1,5 @@
-import LightningLocator from "@/components/LightningLocator";
 import "./globals.css";
+import Chatbot from "@/components/chatbot";
 
 export const metadata = {
   title: "crandi youtube",
@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body>
         <main>
           {children}
-          <LightningLocator />
+          <Chatbot />
         </main>
       </body>
     </html>

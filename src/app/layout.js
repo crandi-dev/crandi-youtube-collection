@@ -1,5 +1,5 @@
+import PopCat from "@/components/popcat";
 import "./globals.css";
-import Chatbot from "@/components/chatbot";
 
 export const metadata = {
   title: "crandi youtube",
@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body>
         <main>
           {children}
-          <Chatbot />
+          <PopCat />
         </main>
       </body>
     </html>

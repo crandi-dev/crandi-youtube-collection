@@ -4,11 +4,6 @@
 
 Welcome to the **CRANDI YouTube Components Collection**! This repository is part of the CRANDI YouTube channel series, where each episode adds a new component to this collection.
 
-### Component Types
-
-- LightningLocator
-- chatbot(personal)
-
 ### Getting Started
 
 To test this project locally, please follow these instructions:

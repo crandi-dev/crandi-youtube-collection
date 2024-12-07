@@ -1,5 +1,5 @@
-import PopCat from "@/components/popcat";
 import "./globals.css";
+import LunchRecommender from "@/components/food_choice";
 
 export const metadata = {
   title: "crandi youtube",
@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body>
         <main>
           {children}
-          <PopCat />
+          <LunchRecommender />
         </main>
       </body>
     </html>

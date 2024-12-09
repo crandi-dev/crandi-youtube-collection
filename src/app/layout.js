@@ -1,5 +1,5 @@
 import "./globals.css";
-import LunchRecommender from "@/components/food_choice";
+import LocationChecker from "@/components/goodPlaceChecker";
 
 export const metadata = {
   title: "crandi youtube",
@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
       <body>
         <main>
           {children}
-          <LunchRecommender />
+          <LocationChecker />
         </main>
       </body>
     </html>
